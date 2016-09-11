@@ -36,6 +36,8 @@ ul.main-menu li, .a1{
     font-family: 'OpenSansRegular';
     font-size: 14pt;
     font-style: normal;
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
 }
 
 ul.main-menu li:hover{
